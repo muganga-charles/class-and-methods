@@ -1,3 +1,3 @@
 # class and methods
- showing the use of a class method and a static method
+Showing the use of a class method and a static method
 But in most cases, we deal with method over riding where by two different classes having the same methods 
