@@ -1,4 +1,4 @@
-B# class and methods
+# class and methods
 ## Types of methods
 - Class method 
 - Static methods <br />
